@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+.listItems {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
